@@ -1,5 +1,5 @@
 {
-  "name": "sys-001/tgbotapi-gen",
+  "name": "skrtdev/tgbotapi-gen",
   "description": "Utility to extract scheme from Telegram Bot API webpage.",
   "type": "project",
   "autoload": {
